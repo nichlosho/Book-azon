@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nichlos.ho/Desktop/Data Structure/Project3/BST.h
+sstream
+-
+
+/Users/nichlos.ho/Desktop/Data Structure/Project3/main.cpp
+iostream
+-
+BST.h
+/Users/nichlos.ho/Desktop/Data Structure/Project3/BST.h
+string
+-
+fstream
+-
+
